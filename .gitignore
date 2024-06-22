@@ -1,0 +1,8 @@
+# Ignore Visual Studio generated files
+.vs/
+
+# Ignore user-specific settings files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
